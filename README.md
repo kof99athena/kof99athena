@@ -9,5 +9,5 @@
 　　　　／　　 / <br/>
 　　　／ /// 　/ ﾂﾂｰ <br/>
 　　／　☆　/ <br/>
-　／　　 　/<br/>  ♥
+　／　　 　/<br/>  
 https://kofathena.tistory.com/
