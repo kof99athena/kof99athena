@@ -2,7 +2,7 @@
 
 　　　　 Λ____Λ <br/>
 　　　　(ㅎㅁㅎ) <br/>
-　　　　(つ　　と彡 <br/>
+　　(つ[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkof99athena&count_bg=%23E2E6FB&title_bg=%23FFE4FB&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)と彡 <br/>
 　　　　　　　／　/ <br/>
 　　　　　　／　 / <br/>
 　　　　　／　　/ <br/>
