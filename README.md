@@ -36,5 +36,19 @@ Blog & Social <br/>
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 <img src="https://img.shields.io/badge/Tistoty-000000?style=for-the-badge&logo=Tistoty&logoColor=white"/>
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+<br/> <br/>
 
+업무 성향은? <br/>
+무조건 사수에게 맞춘다. 팀의 목표가 우선이다. 책임감을 갖고 일한다. 
 
+코드 공부는? <br/>
+손코딩 좋아한다. 파라미터와 리턴값을 중요하게 생각한다. 
+
+개인 성향은? <br/>
+사람들에게 관심이 없다. 혼밥 좋다. 나의 경쟁자는 어제의 나. 
+
+존경하는 사람 <br/>
+가족
+
+좌우명 <br/>
+나를 속이지 말자. 
