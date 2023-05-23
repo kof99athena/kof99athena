@@ -2,7 +2,7 @@
 
 　　　　 Λ____Λ <br/>
 　　　　(ㅎㅁㅎ) <br/>
-　　(つ[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?tab=repositories&url=https%3A%2F%2Fgithub.com%2Fkof99athena&count_bg=%23D4E9FF&title_bg=%23ECD8F4&icon=&icon_color=%23DDEDFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)と彡 <br/>
+　　(つ[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?tab=repositories&url=https%3A%2F%2Fgithub.com%2Fkof99athena&count_bg=%23E2EFFF&title_bg=%23FFEFFE&icon=github.svg&icon_color=%23FEB2FF&title=hi&edge_flat=false)](https://hits.seeyoufarm.com)と彡 <br/>
 　　　　　　　    &nbsp;&nbsp;／　/ <br/>
 　　　　　　    &nbsp;&nbsp;／　 / <br/>
 　　　　　    &nbsp;&nbsp;／　　/ <br/>
