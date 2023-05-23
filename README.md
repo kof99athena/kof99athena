@@ -3,13 +3,14 @@
 　　　　 Λ____Λ <br/>
 　　　　(ㅎㅁㅎ) <br/>
 　　(つ[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkof99athena&count_bg=%23E2E6FB&title_bg=%23FFE4FB&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)と彡 <br/>
-　　　　　　　／　/ <br/>
-　　　　　　／　 / <br/>
-　　　　　／　　/ <br/>
-　　　　／　　 / <br/>
-　　　／ /// 　/ ﾂﾂｰ <br/>
-　　／　☆　/ <br/>
-　／　　 　/<br/>  
+　　　　　　　    &nbsp;&nbsp;／　/ <br/>
+　　　　　　    &nbsp;&nbsp;／　 / <br/>
+　　　　　    &nbsp;&nbsp;／　　/ <br/>
+        [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hye023)](https://solved.ac/hye023/) <br/>
+　　　／　　 / <br/>
+　　／ /// 　/ ﾂﾂｰ <br/>
+　／　☆　/ <br/>
+ ／　　 　/<br/>  
 https://kofathena.tistory.com/
 <br/>
 <br/>
