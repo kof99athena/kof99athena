@@ -1,7 +1,7 @@
 
 
 　　　　 　 　 ∧＿∧ 　 ／￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣<br/>
-　　　　　  （ >ㅁ<）＜　2023년 6/19~ 6/23일 일본에 있습니다. <a href="mailto:kog99athena@naver.com">
+　　　　　  （ >ㅁ<）＜　2023년 6/19~ 6/23일 일본에 있습니다. <a href="mailto:kof99athena@gmail.com">
            <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
        </a><br/>
 　　　 　＿ φ ＿ _ _⊂)__＼＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿<br/>
