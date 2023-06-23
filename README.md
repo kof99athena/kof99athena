@@ -1,13 +1,4 @@
 
-
-　　　　 　 　 ∧＿∧ 　 ／￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣<br/>
-　　　　　  （ >ㅁ<）＜　2023년 6/19~ 6/23일 일본에 있습니다. <br/>
-　　　 　＿ φ ＿ _ _⊂)__＼＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿<br/>
-　　　 ／旦／三／ ／|<br/>
-　　　|￣￣￣￣￣|　|<br/>
-　　　|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|／<br/>
-<br/><br/>
-
 　　　　 Λ____Λ <br/>
 　　　　(ㅎㅁㅎ) <br/>
 　&nbsp;&nbsp;　&nbsp;&nbsp;(つ<a href="mailto:kof99athena@gmail.com">
