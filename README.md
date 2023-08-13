@@ -1,4 +1,4 @@
-+-----------------------------------------------------------------+<br/>
++-----------------------------------------------------------------+<br/><br/>
  &nbsp;A____A<br/>
 |ㅎㅁㅎ  )　<br/> 
 |っ재직중 <br/>2023.07~  Android Native <br/> 
@@ -13,13 +13,23 @@ U￣￣U<br/>
 Sweet Swift  🍥ㅁ🍥      <br/>
 |＿＿＿＿＿＿＿＿＿＿＿＿＿＿|<br/>
 <br/>
+
+<br/>
+<br/>
+
+ 　&nbsp;&nbsp;Λ____Λ／￣｜<br/>
+　(ㅎㅁㅎ/)　　|<br/>
+　(　⊃/と)　　|   <br/>
+　&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;compose<br/>
+￣￣￣￣￣| 𓆛𓆜𓆝𓆞𓆟　𓆛𓆜𓆝𓆞𓆟　𓆛𓆜𓆝𓆞𓆟　<br/>
+　　　　　|　　𓆛𓆜𓆝𓆞𓆟　　𓆛𓆜𓆝𓆞𓆟 <br/>
   
 
 <br/>
 <br/>
 　　　　 Λ____Λ <br/>
 　　　　(ㅎㅁㅎ) <br/>
-　&nbsp;&nbsp;　&nbsp;&nbsp;(つ<a href="mailto:kof99athena@gmail.com">
+　&nbsp;&nbsp;&nbsp;&nbsp;(つ<a href="mailto:kof99athena@gmail.com">
            <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
        </a>と彡 <br/>
 　　　　　　／　/ <br/>
@@ -29,7 +39,9 @@ Sweet Swift  🍥ㅁ🍥      <br/>
 　　／ /// 　/ ﾂﾂｰ <br/>
 　／　☆　/ <br/>
  ／　　 　/<br/>  
+ 
 
+<br/>
 +-----------------------------------------------------------------+<br/>
  
 <br/>
