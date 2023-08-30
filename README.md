@@ -1,8 +1,7 @@
 +-----------------------------------------------------------------+<br/><br/>
  &nbsp;A____A<br/>
 |ㅎㅁㅎ  )　<br/> 
-|っ재직중 <br/>2023.07~  Android Native <br/> 
-클린코드, 패턴, 주석 <br/>
+|っ<br/>  🌷 Android 🌻 <br/> 
 |　　　| <br/>
 |　　　|<br/>
 |　　　|<br/>
@@ -21,8 +20,8 @@ Sweet Swift  🍥ㅁ🍥      <br/>
 　(ㅎㅁㅎ/)　　|<br/>
 　(　⊃/と)　　|   <br/>
 　&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;compose<br/>
-￣￣￣￣￣| 𓆛𓆜𓆝𓆞𓆟　𓆛𓆜𓆝𓆞𓆟　𓆛𓆜𓆝𓆞𓆟　<br/>
-　　　　　|　　𓆛𓆜𓆝𓆞𓆟　　𓆛𓆜𓆝𓆞𓆟 <br/>
+￣￣￣￣￣| 𓆛𓆜🐟𓆞𓆟　𓆛𓆜𓆝𓆞𓆟　𓆛𓆜𓆝𓆞🐟　<br/>
+　　　　　|　　𓆛𓆜𓆝𓆞🐟　　𓆛𓆜𓆝𓆞𓆟 <br/>
   
 
 <br/>
@@ -37,7 +36,7 @@ Sweet Swift  🍥ㅁ🍥      <br/>
 　　　　／　　/ <br/>
 　　　／　　 / <br/>
 　　／ /// 　/ ﾂﾂｰ <br/>
-　／　☆　/ <br/>
+　／　⭐　/ <br/>
  ／　　 　/<br/>  
  
 
