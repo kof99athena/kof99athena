@@ -45,4 +45,4 @@ Sweet Swift  🍥ㅁ🍥      <br/>
  
 <br/>
 athena<br/>
-2023 : Kotlin, Swift
+2023 : Kotlin, Swift + MacBook M3 Pro 💻 
