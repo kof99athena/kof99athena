@@ -1,48 +1,34 @@
-+-----------------------------------------------------------------+<br/><br/>
- &nbsp;A____A<br/>
-|ㅎㅁㅎ  )　<br/> 
-|っ<br/>  🌷 Android 🌻 <br/> 
-| 2023.07~ 재직중　　　 <br/>
-|　　　|<br/>
-|　　　|<br/>
-U￣￣U<br/>
+ヾ🌸"✨🌸✨🌸"✨ノ<br/>
+🌸✨"🌸"✨🌸✨ヾ)<br/>
+✨🌸✨"🌸✨ヾノ<br/>
+🌸"✨🌸✨🌸ソ　(<br/>
+"✨"🌸"✨ノ 　　）<br/>
+🌸"✨🌸ヾソ　　AOS<br/>
+|i||✨ヾノ<br/>
+|ii|　　　　🌸　　MVVM<br/>
+||i| 　🌸　　　Kotlin<br/>
+|i||　　　🌸　　　🌸<br/>
+||i| 　🌸　　🌸　　　　🌸<br/>
+||i|<br/>
+|i|| ❤　🌷～~^'~🌷~^ 🌷 ～“~^🌷<br/>
+"""""""""<br/>
 
-<br/>
-|￣￣￣￣￣￣￣￣￣￣￣￣￣￣|<br/>
-Sweet Swift  🍥ㅁ🍥      <br/>
-|＿＿＿＿＿＿＿＿＿＿＿＿＿＿|<br/>
-<br/>
+2023.07~ Android developer
 
-<br/>
-<br/>
 
- 　&nbsp;&nbsp;Λ____Λ／￣｜<br/>
-　(ㅎㅁㅎ/)　　|<br/>
-　(　⊃/と)　　|   <br/>
+ 　&nbsp;Λ____Λ／￣｜<br/>
+　(ㅎㅁㅎ/)　　 &nbsp;|<br/>
+　(　⊃/と)　　  &nbsp;|   <br/>
 　&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;compose<br/>
 ￣￣￣￣￣| 𓆛𓆜🐟𓆞𓆟　𓆛𓆜𓆝𓆞𓆟　𓆛𓆜𓆝𓆞🐟　<br/>
 　　　　　|　　𓆛𓆜𓆝𓆞🐟　　𓆛𓆜𓆝𓆞𓆟 <br/>
-  
 
-<br/>
-<br/>
-　　　　 Λ____Λ <br/>
-　　　　(ㅎㅁㅎ) <br/>
-　&nbsp;&nbsp;&nbsp;&nbsp;(つ<a href="mailto:kof99athena@gmail.com">
-           <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
-       </a>と彡 <br/>
-　　　　　　／　/ <br/>
-　　　　　／　 / <br/>
-　　　　／　　/ <br/>
-　　　／　　 / <br/>
-　　／ /// 　/ ﾂﾂｰ <br/>
-　／　⭐　/ <br/>
- ／　　 　/<br/>  
- 
+-----------------------------------------------------------
+&nbsp;&nbsp;∧＿∧<br/>
+(=＾°＾) 야곰아카데미<br/>
+/ つ(⌒⌒) Swift 코드 스타터캠프 14기<br/>
+しー ＼／<br/>
 
-<br/>
-+-----------------------------------------------------------------+<br/>
- 
-<br/>
-athena<br/>
-2023 : Kotlin, Swift + MacBook M3 Pro 💻 
+----
+
+
